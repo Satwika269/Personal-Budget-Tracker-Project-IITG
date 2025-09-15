@@ -40,3 +40,13 @@ npm start
 - `GET/POST /api/groups` — Group management
 - `GET/POST /api/transactions` — Expense CRUD
 - `GET/POST /api/budgets/user` / `/api/budgets/group` — Budget setting
+
+## Special thanks to:
+
+The professors for their guidance
+
+The open-source community for inspiration
+
+Project collaborators for their valuable input
+
+## Submission from - IITGCS_24061110 ( TAMMISETTI SESHA SATWIKA )
