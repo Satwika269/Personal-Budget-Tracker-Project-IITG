@@ -7,7 +7,7 @@
     "react-dom": "...",
     "axios": "...",
     "chart.js": "...",
-    // etc
+    
   },
   "scripts": {
     "dev": "vite",
