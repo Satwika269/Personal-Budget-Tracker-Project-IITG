@@ -1,4 +1,5 @@
 {
+{
   "name": "personal-budget-tracker-frontend",
   "version": "1.0.0",
   "private": true,
@@ -10,9 +11,9 @@
     
   },
   "scripts": {
-    "dev": "vite",
-    "start": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   }
 }
