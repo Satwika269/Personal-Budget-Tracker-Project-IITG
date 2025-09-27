@@ -1,14 +1,18 @@
 {
-  "name": "expense-tracker-frontend",
+  "name": "personal-budget-tracker-frontend",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-chartjs-2": "^5.2.0",
-    "chart.js": "^4.4.0"
+    "react": "...",
+    "react-dom": "...",
+    "axios": "...",
+    "chart.js": "...",
+    // etc
   },
   "scripts": {
-    "start": "react-scripts start"
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
